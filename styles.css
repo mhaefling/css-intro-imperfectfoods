@@ -6,3 +6,36 @@
 /* text color -> #453D3D */
 /* button color -> #B32274 */
 /* button text color -> white */
+
+body {
+    background-color: #B4E4E6;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    color: #453D3D;
+}
+
+.image {
+    height: 70px;
+    width: auto;
+}
+
+.title {
+    font-weight: 400;
+}
+
+.sub-title {
+    font-weight: normal;
+}
+
+p {
+    font-weight: 350;
+}
+.get-started {
+    background-color: #B32274;
+    color: white;
+    padding: 10px 35px 10px 35px;
+    border-radius: 10px;
+    border: 0px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: 300;
+    
+}
